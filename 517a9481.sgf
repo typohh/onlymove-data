@@ -1,0 +1,33 @@
+(;FF[4]CA[UTF-8]GM[1]GN[Move difficulty: 20k±0.0, Game difficulty: 20k±0.0]
+KM[7.5]RU[tromp-taylor]SZ[9];B[fg];W[gc];B[be];W[ee];B[hg];W[bg];B[dd];W[db];
+B[ed];W[eh];B[eb];W[eg];B[fd];W[fb];B[fc];W[gb];B[ea];W[he];B[ff];W[cd];B[ce];
+W[de];B[gd];W[cc];B[cg];W[ch];B[cf];W[dc];B[ec];W[dg];B[bh];W[bi];B[ah];W[bd];
+B[af];W[fi];B[ac];W[hd];B[fe];W[gh];B[hf];W[ad];B[di];W[bb];B[ef];W[if];B[fh];
+W[ig];B[hh];W[hb];B[da];W[ca];B[ih];W[ci];B[ei];W[dh];B[ei];W[ie];B[ae];W[ge];
+B[gf];W[fa];B[gg];W[bc];B[ag];W[ai];B[gi];W[df](;B[di]
+C[Correct move! Winrate: 100.0%, Score: 9.6];C[Winrate: 100.0%, Score: 9.6]
+W[ba])(;B[tt]C[Losing move! Winrate: 0.0%, Score: -36.3];
+C[Winrate: 0.0%, Score: -36.3]W[bf])(;B[ha]
+C[Losing move! Winrate: 0.0%, Score: -36.4];C[Winrate: 0.0%, Score: -36.4]W[bf]
+)(;B[bf]C[Losing move! Winrate: 0.0%, Score: -36.3];
+C[Winrate: 0.0%, Score: -36.3]W[bg])(;B[fi]
+C[Losing move! Winrate: 0.0%, Score: -34.3];C[Winrate: 0.0%, Score: -34.3]W[bf]
+)(;B[ii]C[Losing move! Winrate: 0.0%, Score: -36.3];
+C[Winrate: 0.0%, Score: -36.3]W[bf])(;B[hi]
+C[Losing move! Winrate: 0.0%, Score: -36.3];C[Winrate: 0.0%, Score: -36.3]W[bf]
+)(;B[ib]C[Losing move! Winrate: 0.0%, Score: -26.6];
+C[Winrate: 0.0%, Score: -26.6]W[bf])(;B[id]
+C[Losing move! Winrate: 0.1%, Score: -0.3];C[Winrate: 0.1%, Score: -0.3]W[bf])(
+;B[aa]C[Losing move! Winrate: 0.0%, Score: -36.4];
+C[Winrate: 0.0%, Score: -36.4]W[bf])(;B[gh]
+C[Losing move! Winrate: 0.0%, Score: -87.2];C[Winrate: 0.0%, Score: -87.2]W[bf]
+)(;B[ba]C[Losing move! Winrate: 0.0%, Score: -30.3];
+C[Winrate: 0.0%, Score: -30.3]W[bf])(;B[ia]
+C[Losing move! Winrate: 0.0%, Score: -36.3];C[Winrate: 0.0%, Score: -36.3]W[bf]
+)(;B[hc]C[Losing move! Winrate: 0.1%, Score: -0.3];
+C[Winrate: 0.1%, Score: -0.3]W[bf])(;B[ga]
+C[Losing move! Winrate: 0.0%, Score: -36.2];C[Winrate: 0.0%, Score: -36.2]W[bf]
+)(;B[ic]C[Losing move! Winrate: 0.0%, Score: -20.0];
+C[Winrate: 0.0%, Score: -20.0]W[bf])(;B[ab]
+C[Losing move! Winrate: 0.0%, Score: -36.4];C[Winrate: 0.0%, Score: -36.4]W[bf]
+))

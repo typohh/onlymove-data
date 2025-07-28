@@ -1,0 +1,16 @@
+(;FF[4]CA[UTF-8]GM[1]GN[Move difficulty: 18k±0.0, Game difficulty: 15k±0.0]
+KM[7.5]RU[tromp-taylor]SZ[9];B[ee];W[ed];B[hf];W[dc];B[ff];W[fg];B[de];W[gg];
+B[eh];W[gd];B[ge];W[hd];B[cd];W[fd];B[fe];W[he];B[gf];W[cf];B[cg];W[bg];B[ch];
+W[bd];B[be];W[ce];B[bf];W[bc];B[ie];W[dd];B[dg];W[dh];B[df];W[id];B[if];W[ae];
+B[ad];W[cc];B[ce];W[ac];B[ag];W[ef];B[hg];W[fi];B[bh];W[ai];B[eg];W[hi];B[di];
+W[ig];B[ci];W[gh];B[af];W[ih];B[ad];W[hh];B[eb];W[tt];B[hb];W[hc];B[gb];W[db];
+B[ib];W[da];B[fc];W[fb];B[fh];W[fa];B[ae];W[ha];B[bi];W[cb];B[ah];W[ga];B[dh];
+W[ec];B[ca];W[gc];B[bg];W[ba];B[cf];W[ia];B[ic];W[hb];B[aa];W[ib];B[ea];W[ic];
+B[bb];W[fc];B[ca];W[gb];B[ba];W[ea];B[ab];W[ba];B[bb];W[tt];B[ab];W[aa];B[bb];
+W[tt](;B[ei]C[Correct move! Winrate: 99.9%, Score: 3.1];
+C[Winrate: 99.9%, Score: 3.1]W[tt])(;B[tt]
+C[Losing move! Winrate: 99.9%, Score: 3.1];C[Winrate: 99.9%, Score: 3.1]W[tt])(
+;B[ai]C[Losing move! Winrate: 0.0%, Score: -18.0];
+C[Winrate: 0.0%, Score: -18.0]W[gi])(;B[ef]
+C[Losing move! Winrate: 0.0%, Score: -18.0];C[Winrate: 0.0%, Score: -18.0]W[gi]
+))
