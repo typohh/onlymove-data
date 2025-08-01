@@ -1,0 +1,67 @@
+(;FF[4]CA[UTF-8]GM[1]GN[Move: 1d, Game: 7d]KM[7.5]RU[chinese]SZ[9];B[bc];
+W[db];B[ch];W[dd];B[eg];W[ge];B[ec];W[bf];B[fe];W[dc];B[fd];W[df];B[gd];W[dg];
+B[eh];W[gb];B[bg];W[eb];B[hc];W[he];B[ff];W[dh];B[ce];W[cf];B[di];W[ef];B[fb];
+W[gg];B[fg];W[de];B[gh];W[hb];B[fc];W[bh];B[fa];W[ei];B[ci];W[gc];B[hg];W[hd](;
+B[ic]C[Correct move! Winrate: 71.9%, Score: 0.7];C[Winrate: 71.9%, Score: 0.7]
+W[ib])(;B[ai]C[Losing move! Winrate: 0.0%, Score: -20.7];
+C[Winrate: 0.0%, Score: -20.7]W[ga])(;B[da]
+C[Losing move! Winrate: 0.1%, Score: -14.9];C[Winrate: 0.1%, Score: -14.9]W[ga]
+)(;B[ca]C[Losing move! Winrate: 0.1%, Score: -15.6];
+C[Winrate: 0.1%, Score: -15.6]W[ga])(;B[be]
+C[Losing move! Winrate: 0.2%, Score: -16.4];C[Winrate: 0.2%, Score: -16.4]W[ga]
+)(;B[bb]C[Losing move! Winrate: 0.1%, Score: -14.4];
+C[Winrate: 0.1%, Score: -14.4]W[ga])(;B[ea]
+C[Losing move! Winrate: 0.1%, Score: -13.3];C[Winrate: 0.1%, Score: -13.3]W[ic]
+)(;B[ba]C[Losing move! Winrate: 0.1%, Score: -14.0];
+C[Winrate: 0.1%, Score: -14.0]W[ic])(;B[gi]
+C[Losing move! Winrate: 0.1%, Score: -17.5];C[Winrate: 0.1%, Score: -17.5]W[ga]
+)(;B[bd]C[Losing move! Winrate: 0.2%, Score: -14.4];
+C[Winrate: 0.2%, Score: -14.4]W[ic])(;B[ah]
+C[Losing move! Winrate: 0.2%, Score: -13.2];C[Winrate: 0.2%, Score: -13.2]W[ic]
+)(;B[if]C[Losing move! Winrate: 0.1%, Score: -15.3];
+C[Winrate: 0.1%, Score: -15.3]W[ic])(;B[ae]
+C[Losing move! Winrate: 0.1%, Score: -17.5];C[Winrate: 0.1%, Score: -17.5]W[ga]
+)(;B[fh]C[Losing move! Winrate: 0.0%, Score: -17.6];
+C[Winrate: 0.0%, Score: -17.6]W[ga])(;B[ga]
+C[Losing move! Winrate: 0.2%, Score: -12.1];C[Winrate: 0.2%, Score: -12.1]W[ic]
+)(;B[cd]C[Losing move! Winrate: 0.1%, Score: -16.1];
+C[Winrate: 0.1%, Score: -16.1]W[ga])(;B[ab]
+C[Losing move! Winrate: 0.2%, Score: -14.4];C[Winrate: 0.2%, Score: -14.4]W[ga]
+)(;B[ih]C[Losing move! Winrate: 0.0%, Score: -16.9];
+C[Winrate: 0.0%, Score: -16.9]W[ga])(;B[hf]
+C[Losing move! Winrate: 0.1%, Score: -15.5];C[Winrate: 0.1%, Score: -15.5]W[ic]
+)(;B[ag]C[Losing move! Winrate: 0.1%, Score: -13.2];
+C[Winrate: 0.1%, Score: -13.2]W[ga])(;B[cc]
+C[Losing move! Winrate: 0.1%, Score: -16.9];C[Winrate: 0.1%, Score: -16.9]W[ga]
+)(;B[ib]C[Losing move! Winrate: 0.7%, Score: -10.2];
+C[Winrate: 0.7%, Score: -10.2]W[ic])(;B[ad]
+C[Losing move! Winrate: 0.1%, Score: -15.2];C[Winrate: 0.1%, Score: -15.2]W[ga]
+)(;B[aa]C[Losing move! Winrate: 0.1%, Score: -17.8];
+C[Winrate: 0.1%, Score: -17.8]W[ga])(;B[ha]
+C[Losing move! Winrate: 0.4%, Score: -10.7];C[Winrate: 0.4%, Score: -10.7]W[ic]
+)(;B[cg]C[Losing move! Winrate: 0.2%, Score: -10.6];
+C[Winrate: 0.2%, Score: -10.6]W[ag])(;B[bi]
+C[Losing move! Winrate: 0.1%, Score: -14.2];C[Winrate: 0.1%, Score: -14.2]W[ga]
+)(;B[ig]C[Losing move! Winrate: 0.0%, Score: -16.7];
+C[Winrate: 0.0%, Score: -16.7]W[ga])(;B[gf]
+C[Losing move! Winrate: 0.0%, Score: -14.6];C[Winrate: 0.0%, Score: -14.6]W[ga]
+)(;B[ie]C[Losing move! Winrate: 0.1%, Score: -15.5];
+C[Winrate: 0.1%, Score: -15.5]W[ic])(;B[ee]
+C[Losing move! Winrate: 0.1%, Score: -16.3];C[Winrate: 0.1%, Score: -16.3]W[ga]
+)(;B[ed]C[Losing move! Winrate: 0.2%, Score: -16.3];
+C[Winrate: 0.2%, Score: -16.3]W[ga])(;B[ac]
+C[Losing move! Winrate: 0.1%, Score: -16.4];C[Winrate: 0.1%, Score: -16.4]W[ga]
+)(;B[af]C[Losing move! Winrate: 0.2%, Score: -11.8];
+C[Winrate: 0.2%, Score: -11.8]W[cg])(;B[ii]
+C[Losing move! Winrate: 0.0%, Score: -17.9];C[Winrate: 0.0%, Score: -17.9]W[ga]
+)(;B[tt]C[Losing move! Winrate: 0.1%, Score: -17.5];
+C[Winrate: 0.1%, Score: -17.5]W[ga])(;B[cb]
+C[Losing move! Winrate: 0.1%, Score: -16.3];C[Winrate: 0.1%, Score: -16.3]W[ga]
+)(;B[hh]C[Losing move! Winrate: 0.0%, Score: -17.1];
+C[Winrate: 0.0%, Score: -17.1]W[ga])(;B[hi]
+C[Losing move! Winrate: 0.0%, Score: -17.2];C[Winrate: 0.0%, Score: -17.2]W[ga]
+)(;B[fi]C[Losing move! Winrate: 0.1%, Score: -16.8];
+C[Winrate: 0.1%, Score: -16.8]W[ga])(;B[id]
+C[Losing move! Winrate: 0.1%, Score: -17.1];C[Winrate: 0.1%, Score: -17.1]W[ic]
+)(;B[ia]C[Losing move! Winrate: 0.1%, Score: -17.5];
+C[Winrate: 0.1%, Score: -17.5]W[ic]))

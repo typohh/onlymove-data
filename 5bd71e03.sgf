@@ -1,0 +1,67 @@
+(;FF[4]CA[UTF-8]GM[1]GN[Move: 2d, Game: 2d]KM[7.5]RU[chinese]SZ[9];B[hd];
+W[eb];B[ce];W[dd];B[hg];W[fd];B[cd];W[gc];B[ef];W[fg];B[eg];W[ff];B[fh];W[de];
+B[cf];W[gh];B[gg];W[eh];B[fe];W[gf];B[ge];W[fi];B[dc];W[cb];B[ec];W[dg];B[ed];
+W[db];B[hf];W[bg];B[fb];W[gb];B[fc];W[fa];B[ea];W[cc];B[ee];W[dh];B[ga];W[df];
+B[bc];W[bd](;B[bb]C[Correct move! Winrate: 99.9%, Score: 10.4];
+C[Winrate: 99.9%, Score: 10.4]W[be])(;B[ch]
+C[Losing move! Winrate: 2.0%, Score: -8.4];C[Winrate: 2.0%, Score: -8.4]W[bb])(
+;B[be]C[Losing move! Winrate: 2.7%, Score: -5.7];C[Winrate: 2.7%, Score: -5.7]
+W[bb])(;B[ad]C[Losing move! Winrate: 2.8%, Score: -5.7];
+C[Winrate: 2.8%, Score: -5.7]W[bb])(;B[cg]
+C[Losing move! Winrate: 3.1%, Score: -8.3];C[Winrate: 3.1%, Score: -8.3]W[bb])(
+;B[bh]C[Losing move! Winrate: 0.3%, Score: -11.0];
+C[Winrate: 0.3%, Score: -11.0]W[bb])(;B[ah]
+C[Losing move! Winrate: 0.0%, Score: -14.8];C[Winrate: 0.0%, Score: -14.8]W[bb]
+)(;B[ae]C[Losing move! Winrate: 0.2%, Score: -13.2];
+C[Winrate: 0.2%, Score: -13.2]W[ac])(;B[ba]
+C[Losing move! Winrate: 0.3%, Score: -10.3];C[Winrate: 0.3%, Score: -10.3]W[bb]
+)(;B[bf]C[Losing move! Winrate: 0.1%, Score: -12.5];
+C[Winrate: 0.1%, Score: -12.5]W[bb])(;B[ha]
+C[Losing move! Winrate: 0.0%, Score: -15.0];C[Winrate: 0.0%, Score: -15.0]W[bb]
+)(;B[aa]C[Losing move! Winrate: 0.0%, Score: -15.2];
+C[Winrate: 0.0%, Score: -15.2]W[bb])(;B[ig]
+C[Losing move! Winrate: 0.0%, Score: -13.9];C[Winrate: 0.0%, Score: -13.9]W[bb]
+)(;B[di]C[Losing move! Winrate: 0.0%, Score: -15.0];
+C[Winrate: 0.0%, Score: -15.0]W[bb])(;B[fh]
+C[Losing move! Winrate: 0.1%, Score: -8.2];C[Winrate: 0.1%, Score: -8.2]W[bb])(
+;B[ab]C[Losing move! Winrate: 0.1%, Score: -11.1];
+C[Winrate: 0.1%, Score: -11.1]W[bb])(;B[da]
+C[Losing move! Winrate: 0.2%, Score: -10.4];C[Winrate: 0.2%, Score: -10.4]W[bb]
+)(;B[hh]C[Losing move! Winrate: 0.0%, Score: -11.6];
+C[Winrate: 0.0%, Score: -11.6]W[bb])(;B[gi]
+C[Losing move! Winrate: 0.0%, Score: -14.1];C[Winrate: 0.0%, Score: -14.1]W[bb]
+)(;B[ei]C[Losing move! Winrate: 0.1%, Score: -13.9];
+C[Winrate: 0.1%, Score: -13.9]W[bb])(;B[hc]
+C[Losing move! Winrate: 0.0%, Score: -15.3];C[Winrate: 0.0%, Score: -15.3]W[bb]
+)(;B[id]C[Losing move! Winrate: 0.0%, Score: -15.3];
+C[Winrate: 0.0%, Score: -15.3]W[bb])(;B[ac]
+C[Losing move! Winrate: 0.2%, Score: -11.4];C[Winrate: 0.2%, Score: -11.4]W[bb]
+)(;B[tt]C[Losing move! Winrate: 0.0%, Score: -15.2];
+C[Winrate: 0.0%, Score: -15.2]W[bb])(;B[hi]
+C[Losing move! Winrate: 0.0%, Score: -11.4];C[Winrate: 0.0%, Score: -11.4]W[bb]
+)(;B[ca]C[Losing move! Winrate: 0.2%, Score: -10.4];
+C[Winrate: 0.2%, Score: -10.4]W[bb])(;B[ia]
+C[Losing move! Winrate: 0.0%, Score: -15.3];C[Winrate: 0.0%, Score: -15.3]W[bb]
+)(;B[he]C[Losing move! Winrate: 0.0%, Score: -15.3];
+C[Winrate: 0.0%, Score: -15.3]W[bb])(;B[ib]
+C[Losing move! Winrate: 0.0%, Score: -15.2];C[Winrate: 0.0%, Score: -15.2]W[bb]
+)(;B[if]C[Losing move! Winrate: 0.0%, Score: -15.0];
+C[Winrate: 0.0%, Score: -15.0]W[bb])(;B[af]
+C[Losing move! Winrate: 0.1%, Score: -14.1];C[Winrate: 0.1%, Score: -14.1]W[bb]
+)(;B[ii]C[Losing move! Winrate: 0.0%, Score: -14.6];
+C[Winrate: 0.0%, Score: -14.6]W[bb])(;B[ci]
+C[Losing move! Winrate: 0.0%, Score: -14.0];C[Winrate: 0.0%, Score: -14.0]W[bb]
+)(;B[bi]C[Losing move! Winrate: 0.0%, Score: -14.7];
+C[Winrate: 0.0%, Score: -14.7]W[bb])(;B[ag]
+C[Losing move! Winrate: 0.1%, Score: -13.2];C[Winrate: 0.1%, Score: -13.2]W[bb]
+)(;B[ih]C[Losing move! Winrate: 0.0%, Score: -13.3];
+C[Winrate: 0.0%, Score: -13.3]W[bb])(;B[ie]
+C[Losing move! Winrate: 0.0%, Score: -15.3];C[Winrate: 0.0%, Score: -15.3]W[bb]
+)(;B[fa]C[Losing move! Winrate: 0.0%, Score: -13.2];
+C[Winrate: 0.0%, Score: -13.2]W[bb])(;B[hb]
+C[Losing move! Winrate: 0.0%, Score: -15.1];C[Winrate: 0.0%, Score: -15.1]W[bb]
+)(;B[ai]C[Losing move! Winrate: 0.0%, Score: -15.2];
+C[Winrate: 0.0%, Score: -15.2]W[bb])(;B[gd]
+C[Losing move! Winrate: 0.0%, Score: -15.2];C[Winrate: 0.0%, Score: -15.2]W[bb]
+)(;B[ic]C[Losing move! Winrate: 0.0%, Score: -15.3];
+C[Winrate: 0.0%, Score: -15.3]W[bb]))

@@ -1,0 +1,30 @@
+(;FF[4]CA[UTF-8]GM[1]GN[Move: 20k, Game: 20k]KM[7.5]RU[chinese]SZ[9];B[ee]
+;W[bg];B[gd];W[gb];B[cd];W[ef];B[ch];W[de];B[ed];W[gf];B[dd];W[dg];B[ce];W[bf];
+B[df];W[eg];B[cg];W[cf];B[bh];W[fe];B[ge];W[de];B[fd];W[hf];B[ff];W[fg];B[gg];
+W[he];B[hd];W[gh];B[hg];W[hh];B[ie];W[fe];B[ig];W[eb];B[df];W[ih];B[id];W[bc];
+B[db];W[de];B[be];W[cb];B[if];W[ea];B[cc];W[ca];B[hb];W[ab];B[ga];W[ad];B[df];
+W[ia];B[dh];W[eh];B[af];W[ei];B[ff];W[fa];B[gc];W[ha];B[dc];W[da];B[ag];W[ib];
+B[hc];W[ec];B[fc];W[bd];B[ic];W[ga];B[fb];W[di];B[ae];W[ci];B[ba];W[bb](;B[bi]
+C[Correct move! Winrate: 100.0%, Score: 1.3];C[Winrate: 100.0%, Score: 1.3]
+W[tt])(;B[fi]C[Losing move! Winrate: 0.3%, Score: -0.5];
+C[Winrate: 0.3%, Score: -0.5]W[bi])(;B[gi]
+C[Losing move! Winrate: 0.2%, Score: -0.5];C[Winrate: 0.2%, Score: -0.5]W[bi])(
+;B[ah]C[Losing move! Winrate: 0.1%, Score: -0.5];C[Winrate: 0.1%, Score: -0.5]
+W[bi])(;B[hf]C[Losing move! Winrate: 0.1%, Score: -0.6];
+C[Winrate: 0.1%, Score: -0.6]W[bi])(;B[gf]
+C[Losing move! Winrate: 0.1%, Score: -0.6];C[Winrate: 0.1%, Score: -0.6]W[bi])(
+;B[fh]C[Losing move! Winrate: 0.2%, Score: -0.5];C[Winrate: 0.2%, Score: -0.5]
+W[bi])(;B[tt]C[Losing move! Winrate: 0.2%, Score: -3.0];
+C[Winrate: 0.2%, Score: -3.0]W[bi])(;B[ai]
+C[Losing move! Winrate: 0.1%, Score: -0.5];C[Winrate: 0.1%, Score: -0.5]W[bi])(
+;B[hi]C[Losing move! Winrate: 0.2%, Score: -0.5];C[Winrate: 0.2%, Score: -0.5]
+W[bi])(;B[bg]C[Losing move! Winrate: 0.2%, Score: -2.7];
+C[Winrate: 0.2%, Score: -2.7]W[bi])(;B[de]
+C[Losing move! Winrate: 0.1%, Score: -0.7];C[Winrate: 0.1%, Score: -0.7]W[bi])(
+;B[fe]C[Losing move! Winrate: 0.1%, Score: -0.6];C[Winrate: 0.1%, Score: -0.6]
+W[bi])(;B[he]C[Losing move! Winrate: 0.1%, Score: -2.6];
+C[Winrate: 0.1%, Score: -2.6]W[bi])(;B[ii]
+C[Losing move! Winrate: 0.2%, Score: -2.8];C[Winrate: 0.2%, Score: -2.8]W[bi])(
+;B[bf]C[Losing move! Winrate: 0.1%, Score: -0.6];C[Winrate: 0.1%, Score: -0.6]
+W[bi])(;B[cf]C[Losing move! Winrate: 0.1%, Score: -0.6];
+C[Winrate: 0.1%, Score: -0.6]W[bi]))

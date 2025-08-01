@@ -1,0 +1,33 @@
+(;FF[4]CA[UTF-8]GM[1]GN[Move: 11k, Game: 10k]
+KM[7.5]RU[chinese]SZ[9];B[cb];W[cg];B[bc];W[eb];B[hb];W[dc];B[df];W[ad];
+B[cd];W[fe];B[cf];W[fg];B[gf];W[ge];B[ff];W[ef];B[ee];W[eg];B[he];W[fc];B[gd];
+W[fd];B[hf];W[gb];B[hc];W[ed];B[de];W[dg];B[bf];W[cc];B[db];W[bb];B[dd];W[ec];
+B[ba];W[ab];B[bh];W[da];B[bg];W[hh];B[ei];W[hg];B[fh];W[di];B[dh];W[gg];B[eh];
+W[ha];B[hd];W[ib];B[gh];W[hi];B[ig];W[ih];B[ch];W[ic];B[gi];W[if];B[ga];W[fa](;
+B[ie]C[Correct move! Winrate: 99.8%, Score: 9.5];C[Winrate: 99.8%, Score: 9.5]
+W[gc])(;B[ca]C[Losing move! Winrate: 0.1%, Score: -27.2];
+C[Winrate: 0.1%, Score: -27.2]W[gc])(;B[be]
+C[Losing move! Winrate: 0.0%, Score: -30.5];C[Winrate: 0.0%, Score: -30.5]W[gc]
+)(;B[bd]C[Losing move! Winrate: 0.0%, Score: -26.7];
+C[Winrate: 0.0%, Score: -26.7]W[gc])(;B[ae]
+C[Losing move! Winrate: 0.0%, Score: -26.8];C[Winrate: 0.0%, Score: -26.8]W[gc]
+)(;B[id]C[Losing move! Winrate: 0.1%, Score: -30.1];
+C[Winrate: 0.1%, Score: -30.1]W[gc])(;B[aa]
+C[Losing move! Winrate: 0.0%, Score: -14.8];C[Winrate: 0.0%, Score: -14.8]W[ie]
+)(;B[fi]C[Losing move! Winrate: 0.0%, Score: -30.4];
+C[Winrate: 0.0%, Score: -30.4]W[ie])(;B[ac]
+C[Losing move! Winrate: 0.1%, Score: -14.7];C[Winrate: 0.1%, Score: -14.7]W[gc]
+)(;B[gc]C[Losing move! Winrate: 0.0%, Score: -36.5];
+C[Winrate: 0.0%, Score: -36.5]W[bd])(;B[ce]
+C[Losing move! Winrate: 0.0%, Score: -30.4];C[Winrate: 0.0%, Score: -30.4]W[gc]
+)(;B[ah]C[Losing move! Winrate: 0.1%, Score: -30.9];
+C[Winrate: 0.1%, Score: -30.9]W[gc])(;B[tt]
+C[Losing move! Winrate: 0.0%, Score: -30.4];C[Winrate: 0.0%, Score: -30.4]W[gc]
+)(;B[ag]C[Losing move! Winrate: 0.0%, Score: -30.3];
+C[Winrate: 0.0%, Score: -30.3]W[ie])(;B[bi]
+C[Losing move! Winrate: 0.0%, Score: -30.3];C[Winrate: 0.0%, Score: -30.3]W[ie]
+)(;B[af]C[Losing move! Winrate: 0.0%, Score: -30.4];
+C[Winrate: 0.0%, Score: -30.4]W[ie])(;B[ci]
+C[Losing move! Winrate: 0.0%, Score: -30.4];C[Winrate: 0.0%, Score: -30.4]W[gc]
+)(;B[ai]C[Losing move! Winrate: 0.0%, Score: -30.3];
+C[Winrate: 0.0%, Score: -30.3]W[ie]))

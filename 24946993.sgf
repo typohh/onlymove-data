@@ -1,0 +1,30 @@
+(;FF[4]CA[UTF-8]GM[1]GN[Move: 3d, Game: 4d]KM[7.5]RU[chinese]SZ[9];B[cf];
+W[fh];B[bc];W[dd];B[ed];W[bd];B[ee];W[gc];B[fc];W[cc];B[gf];W[ff];B[gd];W[fe];
+B[fd];W[ge];B[bb];W[hd];B[ce];W[ef];B[df];W[cb];B[he];W[dh];B[cd];W[hc];B[gb];
+W[hb];B[fb];W[bh];B[ch];W[ci];B[hg];W[ie];B[hf];W[hh];B[eg];W[fg];B[ha];W[gg];
+B[cg];W[bg];B[bf];W[di];B[ib];W[ad];B[eh];W[ba];B[id];W[ei];B[ag];W[ah];B[ab];
+W[ig];B[ic];W[ac];B[bi];W[gi];B[dg];W[fi];B[eb];W[af];B[hi];W[ii](;B[ae]
+C[Correct move! Winrate: 99.4%, Score: 3.8];C[Winrate: 99.4%, Score: 3.8]W[aa])
+(;B[de]C[Losing move! Winrate: 0.0%, Score: -6.0];C[Winrate: 0.0%, Score: -6.0]
+W[aa])(;B[ec]C[Losing move! Winrate: 0.0%, Score: -8.0];
+C[Winrate: 0.0%, Score: -8.0]W[aa])(;B[hb]
+C[Losing move! Winrate: 0.0%, Score: -8.4];C[Winrate: 0.0%, Score: -8.4]W[aa])(
+;B[dc]C[Losing move! Winrate: 0.0%, Score: -5.9];C[Winrate: 0.0%, Score: -5.9]
+W[aa])(;B[hd]C[Losing move! Winrate: 0.0%, Score: -8.2];
+C[Winrate: 0.0%, Score: -8.2]W[aa])(;B[ia]
+C[Losing move! Winrate: 0.0%, Score: -8.4];C[Winrate: 0.0%, Score: -8.4]W[aa])(
+;B[tt]C[Losing move! Winrate: 0.0%, Score: -8.4];C[Winrate: 0.0%, Score: -8.4]
+W[aa])(;B[db]C[Losing move! Winrate: 0.0%, Score: -6.7];
+C[Winrate: 0.0%, Score: -6.7]W[aa])(;B[fa]
+C[Losing move! Winrate: 0.0%, Score: -7.3];C[Winrate: 0.0%, Score: -7.3]W[aa])(
+;B[gc]C[Losing move! Winrate: 0.0%, Score: -8.4];C[Winrate: 0.0%, Score: -8.4]
+W[aa])(;B[ga]C[Losing move! Winrate: 0.0%, Score: -8.3];
+C[Winrate: 0.0%, Score: -8.3]W[aa])(;B[ca]
+C[Losing move! Winrate: 0.1%, Score: -8.0];C[Winrate: 0.1%, Score: -8.0]W[aa])(
+;B[ea]C[Losing move! Winrate: 0.0%, Score: -6.5];C[Winrate: 0.0%, Score: -6.5]
+W[aa])(;B[be]C[Losing move! Winrate: 0.1%, Score: -6.0];
+C[Winrate: 0.1%, Score: -6.0]W[aa])(;B[da]
+C[Losing move! Winrate: 0.1%, Score: -6.0];C[Winrate: 0.1%, Score: -6.0]W[aa])(
+;B[hc]C[Losing move! Winrate: 0.0%, Score: -8.3];C[Winrate: 0.0%, Score: -8.3]
+W[aa])(;B[if]C[Losing move! Winrate: 0.3%, Score: -6.3];
+C[Winrate: 0.3%, Score: -6.3]W[aa]))

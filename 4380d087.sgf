@@ -1,0 +1,31 @@
+(;FF[4]CA[UTF-8]GM[1]GN[Move: 19k, Game: 18k]
+KM[7.5]RU[chinese]SZ[9];B[gb];W[hc];B[df];W[dg];B[eh];W[hg];B[fd];W[eg];
+B[fg];W[ef];B[gf];W[dc];B[dh];W[de];B[cd];W[ch];B[dd];W[fh];B[ee];W[ff];B[gg];
+W[gh];B[hf];W[cf];B[fe];W[eb];B[bg];W[ei];B[gc];W[ab];B[bc];W[bb];B[cg];W[df];
+B[bf];W[di];B[hh];W[be];B[ce];W[bh];B[bd];W[cc];B[cb];W[ca];B[ec];W[db];B[eh];
+W[dh];B[fb];W[hi];B[ig];W[ac];B[ae];W[ag];B[ea];W[ge];B[ad];W[ih];B[he];W[hg];
+B[ba];W[fa];B[hh];W[gi];B[af];W[da];B[ga];W[if];B[ii];W[ah];B[ea];W[aa];B[fa];
+W[gd];B[hd];W[ih];B[ie];W[hb](;B[ii]C[Correct move! Winrate: 99.9%, Score: 3.4]
+;C[Winrate: 99.9%, Score: 3.4]W[tt])(;B[hg]
+C[Losing move! Winrate: 0.1%, Score: -0.5];C[Winrate: 0.1%, Score: -0.5]W[ii])(
+;B[if]C[Losing move! Winrate: 0.0%, Score: -4.3];C[Winrate: 0.0%, Score: -4.3]
+W[hg])(;B[ge]C[Losing move! Winrate: 0.0%, Score: -4.2];
+C[Winrate: 0.0%, Score: -4.2]W[hg])(;B[ib]
+C[Losing move! Winrate: 0.0%, Score: -4.2];C[Winrate: 0.0%, Score: -4.2]W[hg])(
+;B[gd]C[Losing move! Winrate: 0.0%, Score: -4.2];C[Winrate: 0.0%, Score: -4.2]
+W[hg])(;B[id]C[Losing move! Winrate: 0.0%, Score: -4.2];
+C[Winrate: 0.0%, Score: -4.2]W[hg])(;B[ia]
+C[Losing move! Winrate: 0.0%, Score: -4.2];C[Winrate: 0.0%, Score: -4.2]W[hg])(
+;B[fc]C[Losing move! Winrate: 0.0%, Score: -4.1];C[Winrate: 0.0%, Score: -4.1]
+W[hg])(;B[ic]C[Losing move! Winrate: 0.0%, Score: -4.2];
+C[Winrate: 0.0%, Score: -4.2]W[hg])(;B[ha]
+C[Losing move! Winrate: 0.0%, Score: -4.2];C[Winrate: 0.0%, Score: -4.2]W[hg])(
+;B[ed]C[Losing move! Winrate: 0.0%, Score: -4.2];C[Winrate: 0.0%, Score: -4.2]
+W[hg])(;B[ci]C[Losing move! Winrate: 0.0%, Score: -4.2];
+C[Winrate: 0.0%, Score: -4.2]W[hg])(;B[bi]
+C[Losing move! Winrate: 0.0%, Score: -4.2];C[Winrate: 0.0%, Score: -4.2]W[hg])(
+;B[tt]C[Losing move! Winrate: 0.0%, Score: -4.2];C[Winrate: 0.0%, Score: -4.2]
+W[hg])(;B[ai]C[Losing move! Winrate: 0.0%, Score: -4.2];
+C[Winrate: 0.0%, Score: -4.2]W[hg])(;B[be]
+C[Losing move! Winrate: 0.0%, Score: -23.9];C[Winrate: 0.0%, Score: -23.9]W[ed]
+))

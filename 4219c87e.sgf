@@ -1,0 +1,63 @@
+(;FF[4]CA[UTF-8]GM[1]GN[Move: 9d, Game: 9d]
+KM[7.5]RU[chinese]SZ[9];B[bf];W[ch];B[cd];W[he];B[ec];W[ce];B[be];W[dd];
+B[ed];W[dg];B[ef];W[fg];B[gf];W[de];B[df];W[ff];B[ge];W[fe];B[gd];W[gg];B[dc];
+W[hf];B[ee];W[gc];B[cg];W[eg];B[fd];W[hd];B[hb];W[gb];B[hc];W[ic];B[fb];W[ib];
+B[fc];W[ha];B[bg];W[ah];B[fa];W[bd](;B[bh]
+C[Correct move! Winrate: 99.5%, Score: 1.4];C[Winrate: 99.5%, Score: 1.4]W[di])
+(;B[eb]C[Losing move! Winrate: 0.0%, Score: -8.7];C[Winrate: 0.0%, Score: -8.7]
+W[bh])(;B[cc]C[Losing move! Winrate: 0.0%, Score: -8.5];
+C[Winrate: 0.0%, Score: -8.5]W[bh])(;B[cf]
+C[Losing move! Winrate: 0.0%, Score: -8.5];C[Winrate: 0.0%, Score: -8.5]W[bh])(
+;B[ab]C[Losing move! Winrate: 0.0%, Score: -9.1];C[Winrate: 0.0%, Score: -9.1]
+W[bh])(;B[di]C[Losing move! Winrate: 0.0%, Score: -9.1];
+C[Winrate: 0.0%, Score: -9.1]W[bh])(;B[ci]
+C[Losing move! Winrate: 0.0%, Score: -9.1];C[Winrate: 0.0%, Score: -9.1]W[bh])(
+;B[cb]C[Losing move! Winrate: 0.0%, Score: -8.2];C[Winrate: 0.0%, Score: -8.2]
+W[bh])(;B[bb]C[Losing move! Winrate: 0.0%, Score: -8.5];
+C[Winrate: 0.0%, Score: -8.5]W[bh])(;B[ba]
+C[Losing move! Winrate: 0.0%, Score: -8.8];C[Winrate: 0.0%, Score: -8.8]W[bh])(
+;B[ea]C[Losing move! Winrate: 0.0%, Score: -8.8];C[Winrate: 0.0%, Score: -8.8]
+W[bh])(;B[ca]C[Losing move! Winrate: 0.0%, Score: -8.7];
+C[Winrate: 0.0%, Score: -8.7]W[bh])(;B[ag]
+C[Losing move! Winrate: 0.0%, Score: -7.0];C[Winrate: 0.0%, Score: -7.0]W[bh])(
+;B[ii]C[Losing move! Winrate: 0.0%, Score: -9.3];C[Winrate: 0.0%, Score: -9.3]
+W[bh])(;B[bc]C[Losing move! Winrate: 0.0%, Score: -8.5];
+C[Winrate: 0.0%, Score: -8.5]W[bh])(;B[hc]
+C[Losing move! Winrate: 0.2%, Score: -6.5];C[Winrate: 0.2%, Score: -6.5]W[bh])(
+;B[dh]C[Losing move! Winrate: 0.0%, Score: -9.0];C[Winrate: 0.0%, Score: -9.0]
+W[bh])(;B[hg]C[Losing move! Winrate: 0.0%, Score: -9.0];
+C[Winrate: 0.0%, Score: -9.0]W[bh])(;B[hi]
+C[Losing move! Winrate: 0.0%, Score: -9.2];C[Winrate: 0.0%, Score: -9.2]W[bh])(
+;B[gh]C[Losing move! Winrate: 0.0%, Score: -9.1];C[Winrate: 0.0%, Score: -9.1]
+W[bh])(;B[ei]C[Losing move! Winrate: 0.0%, Score: -9.2];
+C[Winrate: 0.0%, Score: -9.2]W[bh])(;B[ad]
+C[Losing move! Winrate: 0.0%, Score: -8.5];C[Winrate: 0.0%, Score: -8.5]W[bh])(
+;B[da]C[Losing move! Winrate: 0.0%, Score: -10.0];
+C[Winrate: 0.0%, Score: -10.0]W[bh])(;B[af]
+C[Losing move! Winrate: 0.0%, Score: -8.8];C[Winrate: 0.0%, Score: -8.8]W[bh])(
+;B[ac]C[Losing move! Winrate: 0.0%, Score: -9.0];C[Winrate: 0.0%, Score: -9.0]
+W[bh])(;B[ai]C[Losing move! Winrate: 0.0%, Score: -9.3];
+C[Winrate: 0.0%, Score: -9.3]W[bh])(;B[eh]
+C[Losing move! Winrate: 0.0%, Score: -9.1];C[Winrate: 0.0%, Score: -9.1]W[bh])(
+;B[bi]C[Losing move! Winrate: 0.0%, Score: -9.0];C[Winrate: 0.0%, Score: -9.0]
+W[bh])(;B[fh]C[Losing move! Winrate: 0.0%, Score: -9.1];
+C[Winrate: 0.0%, Score: -9.1]W[bh])(;B[ie]
+C[Losing move! Winrate: 0.0%, Score: -9.2];C[Winrate: 0.0%, Score: -9.2]W[bh])(
+;B[if]C[Losing move! Winrate: 0.0%, Score: -9.3];C[Winrate: 0.0%, Score: -9.3]
+W[bh])(;B[fi]C[Losing move! Winrate: 0.0%, Score: -9.2];
+C[Winrate: 0.0%, Score: -9.2]W[bh])(;B[hb]
+C[Losing move! Winrate: 0.2%, Score: -6.7];C[Winrate: 0.2%, Score: -6.7]W[bh])(
+;B[ig]C[Losing move! Winrate: 0.0%, Score: -9.1];C[Winrate: 0.0%, Score: -9.1]
+W[bh])(;B[hh]C[Losing move! Winrate: 0.0%, Score: -9.0];
+C[Winrate: 0.0%, Score: -9.0]W[bh])(;B[ih]
+C[Losing move! Winrate: 0.0%, Score: -9.3];C[Winrate: 0.0%, Score: -9.3]W[bh])(
+;B[ga]C[Losing move! Winrate: 0.0%, Score: -6.9];C[Winrate: 0.0%, Score: -6.9]
+W[bh])(;B[db]C[Losing move! Winrate: 0.0%, Score: -8.1];
+C[Winrate: 0.0%, Score: -8.1]W[bh])(;B[ae]
+C[Losing move! Winrate: 0.0%, Score: -8.5];C[Winrate: 0.0%, Score: -8.5]W[bh])(
+;B[tt]C[Losing move! Winrate: 0.0%, Score: -9.5];C[Winrate: 0.0%, Score: -9.5]
+W[bh])(;B[aa]C[Losing move! Winrate: 0.0%, Score: -9.3];
+C[Winrate: 0.0%, Score: -9.3]W[bh])(;B[id]
+C[Losing move! Winrate: 0.0%, Score: -9.1];C[Winrate: 0.0%, Score: -9.1]W[bh])(
+;B[gi]C[Losing move! Winrate: 0.0%, Score: -9.1];C[Winrate: 0.0%, Score: -9.1]
+W[bh]))

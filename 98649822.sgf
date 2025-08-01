@@ -1,0 +1,28 @@
+(;FF[4]CA[UTF-8]GM[1]GN[Move: 8k, Game: 11k]KM[7.5]RU[chinese]SZ[9];B[de];
+W[hb];B[bh];W[gc];B[eb];W[hg];B[dh];W[dc];B[cc];W[cd];B[ec];W[dg];B[ce];W[cb];
+B[bc];W[dd];B[ed];W[ge];B[bd];W[eh];B[fe];W[ch];B[cg];W[di];B[gd];W[hd];B[fg];
+W[bf];B[cf];W[fh];B[gg];W[gf];B[ff];W[bi];B[hh];W[ig];B[fc];W[fb];B[fa];W[gb];
+B[hc];W[fd];B[ah];W[ci];B[gd];W[ic];B[ih];W[hf];B[if];W[ie];B[bg];W[gh];B[ga];
+W[af];B[eg];W[ha];B[ei];W[be];B[ai];W[db];B[bb];W[dh];B[ea];W[hi];B[fd];W[df](;
+B[ef]C[Correct move! Winrate: 99.9%, Score: 1.3];C[Winrate: 99.9%, Score: 1.3]
+W[fi])(;B[fi]C[Losing move! Winrate: 0.2%, Score: -0.6];
+C[Winrate: 0.2%, Score: -0.6]W[ef])(;B[ab]
+C[Losing move! Winrate: 0.1%, Score: -0.4];C[Winrate: 0.1%, Score: -0.4]W[ef])(
+;B[da]C[Losing move! Winrate: 0.1%, Score: -0.3];C[Winrate: 0.1%, Score: -0.3]
+W[ef])(;B[ac]C[Losing move! Winrate: 0.2%, Score: -0.5];
+C[Winrate: 0.2%, Score: -0.5]W[ef])(;B[ca]
+C[Losing move! Winrate: 0.1%, Score: -0.3];C[Winrate: 0.1%, Score: -0.3]W[ef])(
+;B[tt]C[Losing move! Winrate: 0.2%, Score: -0.5];C[Winrate: 0.2%, Score: -0.5]
+W[ef])(;B[ba]C[Losing move! Winrate: 0.2%, Score: -0.5];
+C[Winrate: 0.2%, Score: -0.5]W[ef])(;B[ib]
+C[Losing move! Winrate: 0.2%, Score: -0.5];C[Winrate: 0.2%, Score: -0.5]W[ef])(
+;B[ia]C[Losing move! Winrate: 0.1%, Score: -0.5];C[Winrate: 0.1%, Score: -0.5]
+W[ef])(;B[ee]C[Losing move! Winrate: 0.2%, Score: -0.3];
+C[Winrate: 0.2%, Score: -0.3]W[ef])(;B[aa]
+C[Losing move! Winrate: 0.2%, Score: -0.5];C[Winrate: 0.2%, Score: -0.5]W[ef])(
+;B[ag]C[Losing move! Winrate: 0.0%, Score: -88.4];
+C[Winrate: 0.0%, Score: -88.4]W[ee])(;B[ae]
+C[Losing move! Winrate: 0.2%, Score: -0.5];C[Winrate: 0.2%, Score: -0.5]W[ef])(
+;B[ad]C[Losing move! Winrate: 0.1%, Score: -0.4];C[Winrate: 0.1%, Score: -0.4]
+W[ef])(;B[gi]C[Losing move! Winrate: 0.2%, Score: -0.5];
+C[Winrate: 0.2%, Score: -0.5]W[ef]))

@@ -1,0 +1,14 @@
+(;FF[4]CA[UTF-8]GM[1]GN[Move: 20k, Game: 20k]KM[7.5]RU[chinese]SZ[9];B[gh]
+;W[eb];B[be];W[ch];B[eh];W[db];B[he];W[cf];B[ce];W[df];B[de];W[fg];B[fd];W[gg];
+B[cc];W[fc];B[fe];W[ed];B[eg];W[gd];B[ee];W[ef];B[hc];W[ff];B[gb];W[bc];B[ge];
+W[gc];B[fb];W[cb];B[bd];W[ba];B[fh];W[hh];B[hg];W[hf];B[ie];W[bg];B[ig];W[dg];
+B[dh];W[bf];B[hd];W[ec];B[bi];W[gf];B[if];W[ci];B[bh];W[ah];B[ea];W[ga];B[ha];
+W[hb];B[di];W[ai];B[fa];W[da];B[hi];W[cg];B[af];W[ib];B[ac];W[bb];B[ab];W[ic];
+B[id];W[ga];B[ad];W[gi];B[fi];W[dc];B[dd];W[cd];B[fa];W[gb];B[ih];W[cc];B[bi];
+W[aa];B[fb];W[ea];B[ag];W[fb];B[ae];W[bh];B[ei];W[fa];B[gi];W[tt](;B[bi]
+C[Correct move! Winrate: 100.0%, Score: 19.6];C[Winrate: 100.0%, Score: 19.6]
+W[tt])(;B[ii]C[Losing move! Winrate: 0.0%, Score: -90.1];
+C[Winrate: 0.0%, Score: -90.1]W[hh])(;B[tt]
+C[Losing move! Winrate: 100.0%, Score: 19.6];C[Winrate: 100.0%, Score: 19.6]
+W[tt])(;B[hh]C[Losing move! Winrate: 0.0%, Score: -89.9];
+C[Winrate: 0.0%, Score: -89.9]W[ii]))

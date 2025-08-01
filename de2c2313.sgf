@@ -1,0 +1,31 @@
+(;FF[4]CA[UTF-8]GM[1]GN[Move: 9d, Game: 6d]KM[7.5]RU[chinese]SZ[9];B[hc];
+W[fd];B[eh];W[bg];B[de];W[gb];B[ge];W[dd];B[ce];W[fe];B[gf];W[cd];B[bf];W[ff];
+B[bd];W[gh];B[gc];W[dg];B[fc];W[ec];B[eg];W[ef];B[cg];W[fg];B[df];W[gd];B[hd];
+W[fb];B[gg];W[he];B[hf];W[fh];B[hb];W[bc];B[dh];W[ad];B[eb];W[db];B[hh];W[hi];
+B[ga];W[be];B[fa];W[ih];B[bh];W[hg];B[if];W[ig];B[cb];W[ii];B[ie];W[da];B[ee];
+W[id];B[ed];W[dc];B[he];W[fi];B[ea];W[ei];B[bb];W[ab];B[ba];W[ag];B[ah];W[ca](;
+B[af]C[Correct move! Winrate: 99.9%, Score: 1.3];C[Winrate: 99.9%, Score: 1.3]
+W[ae])(;B[di]C[Losing move! Winrate: 0.3%, Score: -0.4];
+C[Winrate: 0.3%, Score: -0.4]W[af])(;B[ae]
+C[Losing move! Winrate: 0.2%, Score: -0.5];C[Winrate: 0.2%, Score: -0.5]W[af])(
+;B[ch]C[Losing move! Winrate: 0.2%, Score: -0.5];C[Winrate: 0.2%, Score: -0.5]
+W[ae])(;B[dg]C[Losing move! Winrate: 0.2%, Score: -0.6];
+C[Winrate: 0.2%, Score: -0.6]W[af])(;B[ha]
+C[Losing move! Winrate: 0.1%, Score: -0.5];C[Winrate: 0.1%, Score: -0.5]W[ae])(
+;B[ia]C[Losing move! Winrate: 0.1%, Score: -0.5];C[Winrate: 0.1%, Score: -0.5]
+W[af])(;B[cf]C[Losing move! Winrate: 0.1%, Score: -0.5];
+C[Winrate: 0.1%, Score: -0.5]W[ae])(;B[bi]
+C[Losing move! Winrate: 0.2%, Score: -0.4];C[Winrate: 0.2%, Score: -0.4]W[ae])(
+;B[ib]C[Losing move! Winrate: 0.1%, Score: -0.5];C[Winrate: 0.1%, Score: -0.5]
+W[af])(;B[fb]C[Losing move! Winrate: 0.2%, Score: -0.5];
+C[Winrate: 0.2%, Score: -0.5]W[af])(;B[ic]
+C[Losing move! Winrate: 0.2%, Score: -0.5];C[Winrate: 0.2%, Score: -0.5]W[af])(
+;B[ai]C[Losing move! Winrate: 0.2%, Score: -0.5];C[Winrate: 0.2%, Score: -0.5]
+W[af])(;B[gb]C[Losing move! Winrate: 0.2%, Score: -0.5];
+C[Winrate: 0.2%, Score: -0.5]W[af])(;B[tt]
+C[Losing move! Winrate: 0.2%, Score: -0.5];C[Winrate: 0.2%, Score: -0.5]W[af])(
+;B[ci]C[Losing move! Winrate: 0.2%, Score: -0.4];C[Winrate: 0.2%, Score: -0.4]
+W[ae])(;B[aa]C[Losing move! Winrate: 8.8%, Score: -0.7];
+C[Winrate: 8.8%, Score: -0.7]W[di])(;B[cc]
+C[Losing move! Winrate: 1.0%, Score: -1.4];C[Winrate: 1.0%, Score: -1.4]W[aa]))
+

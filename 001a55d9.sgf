@@ -1,0 +1,33 @@
+(;FF[4]CA[UTF-8]GM[1]GN[Move: 12k, Game: 12k]KM[7.5]RU[chinese]SZ[9];B[fe]
+;W[dc];B[hb];W[dh];B[fb];W[de];B[df];W[gb];B[cf];W[fg];B[gg];W[fc];B[eg];W[ff];
+B[fh];W[be];B[gc];W[gf];B[ge];W[gh];B[ef];W[hg];B[ce];W[he];B[bd];W[gd];B[hc];
+W[cd];B[cc];W[eb];B[fa];W[dd];B[bc];W[ea];B[hf];W[if];B[ee];W[ah];B[ed];W[bg];
+B[ec];W[hd];B[eh];W[ga];B[db];W[fd];B[bf];W[dg];B[cg];W[da];B[gi];W[hi];B[cb];
+W[ca];B[fi];W[aa];B[bb];W[bi];B[ag];W[af];B[ae];W[ch];B[hh];W[ai];B[ba];W[ih];
+B[ab];W[ag];B[fb];W[fa];B[ha];W[fb](;B[di]
+C[Correct move! Winrate: 99.6%, Score: 3.3];C[Winrate: 99.6%, Score: 3.3]W[hf])
+(;B[dd]C[Losing move! Winrate: 0.0%, Score: -20.2];
+C[Winrate: 0.0%, Score: -20.2]W[di])(;B[ic]
+C[Losing move! Winrate: 0.0%, Score: -20.3];C[Winrate: 0.0%, Score: -20.3]W[di]
+)(;B[ie]C[Losing move! Winrate: 0.0%, Score: -20.3];
+C[Winrate: 0.0%, Score: -20.3]W[di])(;B[aa]
+C[Losing move! Winrate: 0.0%, Score: -20.2];C[Winrate: 0.0%, Score: -20.2]W[di]
+)(;B[ad]C[Losing move! Winrate: 0.0%, Score: -20.1];
+C[Winrate: 0.0%, Score: -20.1]W[di])(;B[dc]
+C[Losing move! Winrate: 0.0%, Score: -20.3];C[Winrate: 0.0%, Score: -20.3]W[di]
+)(;B[id]C[Losing move! Winrate: 0.0%, Score: -20.2];
+C[Winrate: 0.0%, Score: -20.2]W[di])(;B[ia]
+C[Losing move! Winrate: 0.0%, Score: -20.3];C[Winrate: 0.0%, Score: -20.3]W[di]
+)(;B[ei]C[Losing move! Winrate: 0.0%, Score: -20.2];
+C[Winrate: 0.0%, Score: -20.2]W[di])(;B[ci]
+C[Losing move! Winrate: 0.0%, Score: -20.3];C[Winrate: 0.0%, Score: -20.3]W[di]
+)(;B[cd]C[Losing move! Winrate: 0.0%, Score: -20.2];
+C[Winrate: 0.0%, Score: -20.2]W[di])(;B[ac]
+C[Losing move! Winrate: 0.0%, Score: -20.1];C[Winrate: 0.0%, Score: -20.1]W[di]
+)(;B[tt]C[Losing move! Winrate: 0.0%, Score: -20.3];
+C[Winrate: 0.0%, Score: -20.3]W[di])(;B[ib]
+C[Losing move! Winrate: 0.0%, Score: -20.2];C[Winrate: 0.0%, Score: -20.2]W[di]
+)(;B[de]C[Losing move! Winrate: 0.0%, Score: -20.2];
+C[Winrate: 0.0%, Score: -20.2]W[di])(;B[be]
+C[Losing move! Winrate: 0.0%, Score: -20.1];C[Winrate: 0.0%, Score: -20.1]W[di]
+))

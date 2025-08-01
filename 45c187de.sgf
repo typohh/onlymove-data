@@ -1,0 +1,67 @@
+(;FF[4]CA[UTF-8]GM[1]GN[Move: 17k, Game: 7k]KM[7.5]RU[chinese]SZ[9];B[gb];
+W[hb];B[dh];W[fd];B[dd];W[gh];B[ce];W[ec];B[gf];W[eg];B[gd];W[gc];B[fg];W[ee];
+B[df];W[ef];B[eh];W[ed];B[gg];W[fh];B[hd];W[hc];B[hg];W[hh];B[ih];W[bd];B[cc];
+W[bc];B[bb];W[bf];B[cf];W[dg];B[ch];W[fe];B[be];W[cg];B[bh];W[ge];B[bg];W[dc](;
+B[cd]C[Correct move! Winrate: 99.5%, Score: 1.2];C[Winrate: 99.5%, Score: 1.2]
+W[he])(;B[db]C[Losing move! Winrate: 0.1%, Score: -12.2];
+C[Winrate: 0.1%, Score: -12.2]W[cd])(;B[eb]
+C[Losing move! Winrate: 0.1%, Score: -11.6];C[Winrate: 0.1%, Score: -11.6]W[cd]
+)(;B[he]C[Losing move! Winrate: 0.2%, Score: -4.4];
+C[Winrate: 0.2%, Score: -4.4]W[cd])(;B[ac]
+C[Losing move! Winrate: 0.5%, Score: -5.7];C[Winrate: 0.5%, Score: -5.7]W[if])(
+;B[ii]C[Losing move! Winrate: 0.1%, Score: -20.9];
+C[Winrate: 0.1%, Score: -20.9]W[if])(;B[ig]
+C[Losing move! Winrate: 0.1%, Score: -11.2];C[Winrate: 0.1%, Score: -11.2]W[cd]
+)(;B[fa]C[Losing move! Winrate: 0.1%, Score: -12.3];
+C[Winrate: 0.1%, Score: -12.3]W[cd])(;B[de]
+C[Losing move! Winrate: 0.2%, Score: -14.0];C[Winrate: 0.2%, Score: -14.0]W[if]
+)(;B[ai]C[Losing move! Winrate: 0.1%, Score: -14.5];
+C[Winrate: 0.1%, Score: -14.5]W[he])(;B[ci]
+C[Losing move! Winrate: 0.1%, Score: -14.9];C[Winrate: 0.1%, Score: -14.9]W[he]
+)(;B[gi]C[Losing move! Winrate: 0.1%, Score: -13.0];
+C[Winrate: 0.1%, Score: -13.0]W[cd])(;B[cb]
+C[Losing move! Winrate: 0.2%, Score: -5.8];C[Winrate: 0.2%, Score: -5.8]W[cd])(
+;B[ad]C[Losing move! Winrate: 0.5%, Score: -5.2];C[Winrate: 0.5%, Score: -5.2]
+W[if])(;B[hi]C[Losing move! Winrate: 0.1%, Score: -12.2];
+C[Winrate: 0.1%, Score: -12.2]W[cd])(;B[ff]
+C[Losing move! Winrate: 0.0%, Score: -23.7];C[Winrate: 0.0%, Score: -23.7]W[hf]
+)(;B[id]C[Losing move! Winrate: 0.1%, Score: -14.1];
+C[Winrate: 0.1%, Score: -14.1]W[he])(;B[ia]
+C[Losing move! Winrate: 0.1%, Score: -14.7];C[Winrate: 0.1%, Score: -14.7]W[he]
+)(;B[da]C[Losing move! Winrate: 0.1%, Score: -12.8];
+C[Winrate: 0.1%, Score: -12.8]W[cd])(;B[ag]
+C[Losing move! Winrate: 0.1%, Score: -14.9];C[Winrate: 0.1%, Score: -14.9]W[he]
+)(;B[ah]C[Losing move! Winrate: 0.1%, Score: -14.6];
+C[Winrate: 0.1%, Score: -14.6]W[he])(;B[aa]
+C[Losing move! Winrate: 0.1%, Score: -14.9];C[Winrate: 0.1%, Score: -14.9]W[he]
+)(;B[fc]C[Losing move! Winrate: 0.1%, Score: -15.9];
+C[Winrate: 0.1%, Score: -15.9]W[if])(;B[ha]
+C[Losing move! Winrate: 0.1%, Score: -13.3];C[Winrate: 0.1%, Score: -13.3]W[he]
+)(;B[ic]C[Losing move! Winrate: 0.1%, Score: -14.1];
+C[Winrate: 0.1%, Score: -14.1]W[he])(;B[hf]
+C[Losing move! Winrate: 0.1%, Score: -14.8];C[Winrate: 0.1%, Score: -14.8]W[cd]
+)(;B[ae]C[Losing move! Winrate: 0.2%, Score: -11.4];
+C[Winrate: 0.2%, Score: -11.4]W[he])(;B[fb]
+C[Losing move! Winrate: 0.1%, Score: -10.3];C[Winrate: 0.1%, Score: -10.3]W[cd]
+)(;B[if]C[Losing move! Winrate: 0.1%, Score: -14.4];
+C[Winrate: 0.1%, Score: -14.4]W[he])(;B[ea]
+C[Losing move! Winrate: 0.1%, Score: -12.5];C[Winrate: 0.1%, Score: -12.5]W[cd]
+)(;B[fi]C[Losing move! Winrate: 0.1%, Score: -12.2];
+C[Winrate: 0.1%, Score: -12.2]W[cd])(;B[bi]
+C[Losing move! Winrate: 0.1%, Score: -15.0];C[Winrate: 0.1%, Score: -15.0]W[he]
+)(;B[ei]C[Losing move! Winrate: 0.0%, Score: -12.6];
+C[Winrate: 0.0%, Score: -12.6]W[cd])(;B[ba]
+C[Losing move! Winrate: 0.1%, Score: -15.8];C[Winrate: 0.1%, Score: -15.8]W[he]
+)(;B[ab]C[Losing move! Winrate: 0.2%, Score: -14.0];
+C[Winrate: 0.2%, Score: -14.0]W[he])(;B[ib]
+C[Losing move! Winrate: 0.1%, Score: -14.0];C[Winrate: 0.1%, Score: -14.0]W[he]
+)(;B[af]C[Losing move! Winrate: 0.1%, Score: -14.0];
+C[Winrate: 0.1%, Score: -14.0]W[if])(;B[ca]
+C[Losing move! Winrate: 0.1%, Score: -13.4];C[Winrate: 0.1%, Score: -13.4]W[cd]
+)(;B[ie]C[Losing move! Winrate: 0.1%, Score: -14.4];
+C[Winrate: 0.1%, Score: -14.4]W[he])(;B[di]
+C[Losing move! Winrate: 0.1%, Score: -14.4];C[Winrate: 0.1%, Score: -14.4]W[he]
+)(;B[tt]C[Losing move! Winrate: 0.1%, Score: -15.1];
+C[Winrate: 0.1%, Score: -15.1]W[he])(;B[ga]
+C[Losing move! Winrate: 0.0%, Score: -11.9];C[Winrate: 0.0%, Score: -11.9]W[cd]
+))

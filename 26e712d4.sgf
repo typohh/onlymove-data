@@ -1,0 +1,31 @@
+(;FF[4]CA[UTF-8]GM[1]GN[Move: 5d, Game: 3d]KM[7.5]RU[chinese]SZ[9];B[db];
+W[fg];B[cd];W[ch];B[df];W[hc];B[fe];W[he];B[gf];W[dg];B[gb];W[fb];B[fc];W[gc];
+B[eb];W[fd];B[ec];W[ef];B[gd];W[hd];B[gg];W[hb];B[cf];W[bg];B[fa];W[gh];B[hh];
+W[fh];B[cg];W[bi];B[hf];W[ib];B[ed];W[ha];B[ah];W[ag];B[dh];W[eg];B[be];W[ee];
+B[gi];W[de];B[ce];W[di];B[hi];W[dd];B[cc];W[ga];B[fi];W[ge];B[fd];W[fb];B[ea];
+W[ig];B[ei];W[eh];B[ff];W[ae];B[ie];W[id];B[dc];W[dh];B[bf];W[bh](;B[if]
+C[Correct move! Winrate: 100.0%, Score: 1.4];C[Winrate: 100.0%, Score: 1.4]
+W[af])(;B[af]C[Losing move! Winrate: 0.3%, Score: -0.3];
+C[Winrate: 0.3%, Score: -0.3]W[if])(;B[bd]
+C[Losing move! Winrate: 0.0%, Score: -4.6];C[Winrate: 0.0%, Score: -4.6]W[if])(
+;B[bc]C[Losing move! Winrate: 0.0%, Score: -4.5];C[Winrate: 0.0%, Score: -4.5]
+W[if])(;B[ih]C[Losing move! Winrate: 0.1%, Score: -4.1];
+C[Winrate: 0.1%, Score: -4.1]W[af])(;B[hg]
+C[Losing move! Winrate: 0.1%, Score: -4.1];C[Winrate: 0.1%, Score: -4.1]W[af])(
+;B[ac]C[Losing move! Winrate: 0.0%, Score: -4.5];C[Winrate: 0.0%, Score: -4.5]
+W[if])(;B[ca]C[Losing move! Winrate: 0.0%, Score: -4.2];
+C[Winrate: 0.0%, Score: -4.2]W[if])(;B[aa]
+C[Losing move! Winrate: 0.0%, Score: -4.4];C[Winrate: 0.0%, Score: -4.4]W[if])(
+;B[cb]C[Losing move! Winrate: 0.0%, Score: -4.4];C[Winrate: 0.0%, Score: -4.4]
+W[if])(;B[ab]C[Losing move! Winrate: 0.0%, Score: -4.4];
+C[Winrate: 0.0%, Score: -4.4]W[if])(;B[ba]
+C[Losing move! Winrate: 0.0%, Score: -4.3];C[Winrate: 0.0%, Score: -4.3]W[if])(
+;B[ii]C[Losing move! Winrate: 0.0%, Score: -12.0];
+C[Winrate: 0.0%, Score: -12.0]W[hg])(;B[da]
+C[Losing move! Winrate: 0.0%, Score: -4.6];C[Winrate: 0.0%, Score: -4.6]W[if])(
+;B[tt]C[Losing move! Winrate: 0.0%, Score: -4.5];C[Winrate: 0.0%, Score: -4.5]
+W[if])(;B[ad]C[Losing move! Winrate: 0.0%, Score: -4.3];
+C[Winrate: 0.0%, Score: -4.3]W[if])(;B[gb]
+C[Losing move! Winrate: 0.1%, Score: -4.5];C[Winrate: 0.1%, Score: -4.5]W[if])(
+;B[bb]C[Losing move! Winrate: 0.0%, Score: -4.3];C[Winrate: 0.0%, Score: -4.3]
+W[if]))

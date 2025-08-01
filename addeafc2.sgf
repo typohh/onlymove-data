@@ -1,0 +1,33 @@
+(;FF[4]CA[UTF-8]GM[1]GN[Move: 20k, Game: 20k]
+KM[7.5]RU[chinese]SZ[9];B[bg];W[ee];B[he];W[bf];B[hd];W[fg];B[cf];W[fh];
+B[be];W[gc];B[ff];W[ce];B[dg];W[df];B[cg];W[ec];B[fe];W[hg];B[fd];W[dc];B[ed];
+W[bd];B[dd];W[cd];B[dh];W[eg];B[fc];W[hf];B[cc];W[cb];B[af];W[fb];B[gb];W[ea];
+B[bc];W[bb];B[de];W[ac];B[gf];W[ih];B[hb];W[ch];B[if];W[hi];B[gg];W[gh];B[eb];
+W[fa];B[ga];W[db];B[da];W[eb];B[ei];W[ae];B[ef];W[bf];B[ag];W[ic];B[fi];W[gi];
+B[ib];W[eh];B[ie];W[ig];B[ci];W[tt];B[be];W[aa];B[ad];W[hc];B[id];W[ha](;B[gd]
+C[Correct move! Winrate: 99.8%, Score: 1.4];C[Winrate: 99.8%, Score: 1.4]W[ae])
+(;B[ge]C[Losing move! Winrate: 0.0%, Score: -14.4];
+C[Winrate: 0.0%, Score: -14.4]W[ia])(;B[ee]
+C[Losing move! Winrate: 0.0%, Score: -14.9];C[Winrate: 0.0%, Score: -14.9]W[ia]
+)(;B[bf]C[Losing move! Winrate: 0.0%, Score: -14.4];
+C[Winrate: 0.0%, Score: -14.4]W[ia])(;B[ah]
+C[Losing move! Winrate: 0.0%, Score: -14.5];C[Winrate: 0.0%, Score: -14.5]W[ia]
+)(;B[ba]C[Losing move! Winrate: 0.0%, Score: -14.8];
+C[Winrate: 0.0%, Score: -14.8]W[ia])(;B[ae]
+C[Losing move! Winrate: 0.0%, Score: -12.4];C[Winrate: 0.0%, Score: -12.4]W[ia]
+)(;B[ai]C[Losing move! Winrate: 0.0%, Score: -14.7];
+C[Winrate: 0.0%, Score: -14.7]W[ia])(;B[df]
+C[Losing move! Winrate: 0.0%, Score: -14.6];C[Winrate: 0.0%, Score: -14.6]W[ia]
+)(;B[ca]C[Losing move! Winrate: 0.0%, Score: -14.7];
+C[Winrate: 0.0%, Score: -14.7]W[ia])(;B[tt]
+C[Losing move! Winrate: 0.0%, Score: -14.5];C[Winrate: 0.0%, Score: -14.5]W[ia]
+)(;B[di]C[Losing move! Winrate: 0.0%, Score: -10.6];
+C[Winrate: 0.0%, Score: -10.6]W[ia])(;B[bi]
+C[Losing move! Winrate: 0.0%, Score: -14.5];C[Winrate: 0.0%, Score: -14.5]W[ia]
+)(;B[bh]C[Losing move! Winrate: 0.0%, Score: -14.5];
+C[Winrate: 0.0%, Score: -14.5]W[ia])(;B[ia]
+C[Losing move! Winrate: 0.0%, Score: -14.7];C[Winrate: 0.0%, Score: -14.7]W[ha]
+)(;B[cc]C[Losing move! Winrate: 0.1%, Score: -4.3];
+C[Winrate: 0.1%, Score: -4.3]W[ia])(;B[bc]
+C[Losing move! Winrate: 0.1%, Score: -4.3];C[Winrate: 0.1%, Score: -4.3]W[ia]))
+

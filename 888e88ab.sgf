@@ -1,0 +1,67 @@
+(;FF[4]CA[UTF-8]GM[1]GN[Move: 9d, Game: 9d]KM[7.5]RU[chinese]SZ[9];B[ed];
+W[dh];B[gf];W[ch];B[db];W[cc];B[hc];W[de];B[ee];W[fg];B[cd];W[dd];B[cb];W[hd];
+B[gg];W[gc];B[hb];W[ff];B[fe];W[ha];B[fh];W[gb];B[he];W[gd];B[dc];W[ge];B[hf];
+W[ce];B[bc];W[ib];B[df];W[eh];B[bg];W[eg];B[gh];W[be];B[cg];W[ef];B[ec];W[bh](;
+B[af]C[Correct move! Winrate: 57.6%, Score: 0.6];C[Winrate: 57.6%, Score: 0.6]
+W[ah])(;B[da]C[Losing move! Winrate: 0.6%, Score: -16.1];
+C[Winrate: 0.6%, Score: -16.1]W[bd])(;B[hh]
+C[Losing move! Winrate: 1.9%, Score: -13.2];C[Winrate: 1.9%, Score: -13.2]W[bd]
+)(;B[ih]C[Losing move! Winrate: 1.5%, Score: -13.9];
+C[Winrate: 1.5%, Score: -13.9]W[bd])(;B[fb]
+C[Losing move! Winrate: 0.7%, Score: -12.1];C[Winrate: 0.7%, Score: -12.1]W[bd]
+)(;B[id]C[Losing move! Winrate: 1.9%, Score: -14.4];
+C[Winrate: 1.9%, Score: -14.4]W[bd])(;B[ea]
+C[Losing move! Winrate: 0.5%, Score: -14.1];C[Winrate: 0.5%, Score: -14.1]W[bd]
+)(;B[ah]C[Losing move! Winrate: 0.2%, Score: -12.1];
+C[Winrate: 0.2%, Score: -12.1]W[dg])(;B[ci]
+C[Losing move! Winrate: 0.2%, Score: -13.5];C[Winrate: 0.2%, Score: -13.5]W[af]
+)(;B[ie]C[Losing move! Winrate: 2.2%, Score: -13.2];
+C[Winrate: 2.2%, Score: -13.2]W[bd])(;B[bb]
+C[Losing move! Winrate: 0.3%, Score: -14.6];C[Winrate: 0.3%, Score: -14.6]W[bd]
+)(;B[ai]C[Losing move! Winrate: 0.6%, Score: -16.3];
+C[Winrate: 0.6%, Score: -16.3]W[bd])(;B[hi]
+C[Losing move! Winrate: 1.2%, Score: -14.4];C[Winrate: 1.2%, Score: -14.4]W[bd]
+)(;B[ei]C[Losing move! Winrate: 1.9%, Score: -13.1];
+C[Winrate: 1.9%, Score: -13.1]W[bd])(;B[fi]
+C[Losing move! Winrate: 1.5%, Score: -13.5];C[Winrate: 1.5%, Score: -13.5]W[bd]
+)(;B[cc]C[Losing move! Winrate: 0.1%, Score: -13.8];
+C[Winrate: 0.1%, Score: -13.8]W[ae])(;B[di]
+C[Losing move! Winrate: 0.6%, Score: -15.3];C[Winrate: 0.6%, Score: -15.3]W[bd]
+)(;B[fd]C[Losing move! Winrate: 0.7%, Score: -15.4];
+C[Winrate: 0.7%, Score: -15.4]W[bd])(;B[bi]
+C[Losing move! Winrate: 0.3%, Score: -13.0];C[Winrate: 0.3%, Score: -13.0]W[af]
+)(;B[ac]C[Losing move! Winrate: 0.1%, Score: -13.0];
+C[Winrate: 0.1%, Score: -13.0]W[ae])(;B[fc]
+C[Losing move! Winrate: 0.6%, Score: -14.6];C[Winrate: 0.6%, Score: -14.6]W[bd]
+)(;B[ae]C[Losing move! Winrate: 0.5%, Score: -3.8];
+C[Winrate: 0.5%, Score: -3.8]W[af])(;B[ba]
+C[Losing move! Winrate: 0.7%, Score: -14.9];C[Winrate: 0.7%, Score: -14.9]W[bd]
+)(;B[if]C[Losing move! Winrate: 1.6%, Score: -14.9];
+C[Winrate: 1.6%, Score: -14.9]W[bd])(;B[ig]
+C[Losing move! Winrate: 1.3%, Score: -14.4];C[Winrate: 1.3%, Score: -14.4]W[bd]
+)(;B[ag]C[Losing move! Winrate: 1.2%, Score: -9.7];
+C[Winrate: 1.2%, Score: -9.7]W[cf])(;B[eb]
+C[Losing move! Winrate: 0.5%, Score: -16.4];C[Winrate: 0.5%, Score: -16.4]W[bd]
+)(;B[ca]C[Losing move! Winrate: 0.7%, Score: -15.8];
+C[Winrate: 0.7%, Score: -15.8]W[bd])(;B[dg]
+C[Losing move! Winrate: 0.2%, Score: -16.0];C[Winrate: 0.2%, Score: -16.0]W[bd]
+)(;B[hg]C[Losing move! Winrate: 0.2%, Score: -17.3];
+C[Winrate: 0.2%, Score: -17.3]W[ie])(;B[gi]
+C[Losing move! Winrate: 0.7%, Score: -17.9];C[Winrate: 0.7%, Score: -17.9]W[bd]
+)(;B[tt]C[Losing move! Winrate: 0.4%, Score: -16.1];
+C[Winrate: 0.4%, Score: -16.1]W[bd])(;B[bf]
+C[Losing move! Winrate: 0.1%, Score: -12.9];C[Winrate: 0.1%, Score: -12.9]W[ae]
+)(;B[cf]C[Losing move! Winrate: 0.4%, Score: -12.8];
+C[Winrate: 0.4%, Score: -12.8]W[ag])(;B[aa]
+C[Losing move! Winrate: 0.7%, Score: -15.8];C[Winrate: 0.7%, Score: -15.8]W[bd]
+)(;B[fa]C[Losing move! Winrate: 0.8%, Score: -13.2];
+C[Winrate: 0.8%, Score: -13.2]W[bd])(;B[ab]
+C[Losing move! Winrate: 0.1%, Score: -13.3];C[Winrate: 0.1%, Score: -13.3]W[dg]
+)(;B[ad]C[Losing move! Winrate: 1.0%, Score: -3.2];
+C[Winrate: 1.0%, Score: -3.2]W[af])(;B[ic]
+C[Losing move! Winrate: 2.6%, Score: -13.1];C[Winrate: 2.6%, Score: -13.1]W[af]
+)(;B[ii]C[Losing move! Winrate: 0.2%, Score: -22.0];
+C[Winrate: 0.2%, Score: -22.0]W[hh])(;B[ga]
+C[Losing move! Winrate: 13.7%, Score: -7.5];C[Winrate: 13.7%, Score: -7.5]W[af]
+)(;B[bd]C[Losing move! Winrate: 68.5%, Score: 3.1];
+C[Winrate: 68.5%, Score: 3.1]W[dg]))

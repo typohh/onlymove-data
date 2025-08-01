@@ -1,0 +1,30 @@
+(;FF[4]CA[UTF-8]GM[1]GN[Move: 18k, Game: 12k]KM[7.5]RU[chinese]SZ[9];B[dc]
+;W[ef];B[db];W[fh];B[hd];W[eh];B[de];W[bf];B[gf];W[ee];B[ce];W[cf];B[be];W[fc];
+B[gh];W[gi];B[gc];W[gg];B[af];W[ec];B[hf];W[gb];B[hh];W[hb];B[hi];W[ge];B[fg];
+W[ff];B[gd];W[ca];B[fd];W[ed];B[eb];W[eg];B[fe];W[dd];B[cc];W[fb];B[df];W[cd];
+B[bc];W[aa];B[cg];W[ch];B[dg];W[he];B[hg];W[ic];B[id];W[bh];B[dh];W[di];B[bd];
+W[bg];B[bb];W[fi];B[fa];W[ag];B[ad];W[ab];B[ci];W[ga];B[ba];W[bi](;B[ea]
+C[Correct move! Winrate: 99.8%, Score: 1.4];C[Winrate: 99.8%, Score: 1.4]W[ib])
+(;B[ae]C[Losing move! Winrate: 0.7%, Score: -1.1];C[Winrate: 0.7%, Score: -1.1]
+W[ea])(;B[fg]C[Losing move! Winrate: 2.0%, Score: -1.6];
+C[Winrate: 2.0%, Score: -1.6]W[ea])(;B[cb]
+C[Losing move! Winrate: 0.1%, Score: -2.3];C[Winrate: 0.1%, Score: -2.3]W[ea])(
+;B[ha]C[Losing move! Winrate: 0.2%, Score: -2.1];C[Winrate: 0.2%, Score: -2.1]
+W[ea])(;B[da]C[Losing move! Winrate: 0.7%, Score: -1.4];
+C[Winrate: 0.7%, Score: -1.4]W[fg])(;B[ib]
+C[Losing move! Winrate: 0.6%, Score: -7.4];C[Winrate: 0.6%, Score: -7.4]W[ea])(
+;B[ie]C[Losing move! Winrate: 0.6%, Score: -1.0];C[Winrate: 0.6%, Score: -1.0]
+W[ea])(;B[ac]C[Losing move! Winrate: 0.1%, Score: -2.3];
+C[Winrate: 0.1%, Score: -2.3]W[ea])(;B[ih]
+C[Losing move! Winrate: 0.1%, Score: -2.3];C[Winrate: 0.1%, Score: -2.3]W[ea])(
+;B[ah]C[Losing move! Winrate: 0.1%, Score: -2.2];C[Winrate: 0.1%, Score: -2.2]
+W[ea])(;B[if]C[Losing move! Winrate: 0.1%, Score: -2.2];
+C[Winrate: 0.1%, Score: -2.2]W[ea])(;B[ia]
+C[Losing move! Winrate: 0.1%, Score: -2.4];C[Winrate: 0.1%, Score: -2.4]W[ea])(
+;B[tt]C[Losing move! Winrate: 0.1%, Score: -2.3];C[Winrate: 0.1%, Score: -2.3]
+W[ea])(;B[ii]C[Losing move! Winrate: 0.1%, Score: -2.2];
+C[Winrate: 0.1%, Score: -2.2]W[ea])(;B[ig]
+C[Losing move! Winrate: 0.1%, Score: -2.3];C[Winrate: 0.1%, Score: -2.3]W[ea])(
+;B[ai]C[Losing move! Winrate: 0.1%, Score: -2.3];C[Winrate: 0.1%, Score: -2.3]
+W[ea])(;B[hc]C[Losing move! Winrate: 0.0%, Score: -36.8];
+C[Winrate: 0.0%, Score: -36.8]W[ie]))

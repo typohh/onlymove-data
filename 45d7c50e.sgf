@@ -1,0 +1,31 @@
+(;FF[4]CA[UTF-8]GM[1]GN[Move: 20k, Game: 20k]
+KM[7.5]RU[chinese]SZ[9];B[cb];W[fc];B[cf];W[gc];B[cg];W[be];B[dd];W[dc];
+B[cc];W[de];B[ee];W[ed];B[ce];W[ca];B[cd];W[gf];B[fh];W[eg];B[fe];W[ge];B[fg];
+W[ff];B[eh];W[db];B[fd];W[ec];B[ba];W[df];B[gg];W[hg];B[dg];W[ef];B[da];W[bb];
+B[ea];W[hh];B[ga];W[hb];B[gb];W[gh];B[hc];W[hd];B[gi];W[fi];B[dh];W[ib];B[fb];
+W[ic];B[eb];W[hi];B[ei];W[gi];B[bd];W[ah];B[ai];W[ie];B[ag];W[af];B[bf];W[ch];
+B[bg];W[ig];B[ae];W[bi];B[bh];W[di];B[ci];W[ab];B[ai];W[ad];B[bc];W[aa];B[ca];
+W[ac];B[ia];W[hf](;B[ha]C[Correct move! Winrate: 100.0%, Score: 1.2];
+C[Winrate: 100.0%, Score: 1.2]W[id])(;B[af]
+C[Losing move! Winrate: 0.0%, Score: -2.5];C[Winrate: 0.0%, Score: -2.5]W[ha])(
+;B[gd]C[Losing move! Winrate: 0.0%, Score: -2.4];C[Winrate: 0.0%, Score: -2.4]
+W[ha])(;B[be]C[Losing move! Winrate: 0.0%, Score: -2.4];
+C[Winrate: 0.0%, Score: -2.4]W[ha])(;B[bi]
+C[Losing move! Winrate: 0.0%, Score: -2.4];C[Winrate: 0.0%, Score: -2.4]W[ha])(
+;B[ah]C[Losing move! Winrate: 0.0%, Score: -2.4];C[Winrate: 0.0%, Score: -2.4]
+W[ha])(;B[ab]C[Losing move! Winrate: 0.0%, Score: -2.5];
+C[Winrate: 0.0%, Score: -2.5]W[ha])(;B[ac]
+C[Losing move! Winrate: 0.0%, Score: -2.4];C[Winrate: 0.0%, Score: -2.4]W[ha])(
+;B[ad]C[Losing move! Winrate: 0.0%, Score: -2.5];C[Winrate: 0.0%, Score: -2.5]
+W[ha])(;B[tt]C[Losing move! Winrate: 0.0%, Score: -2.4];
+C[Winrate: 0.0%, Score: -2.4]W[ha])(;B[ch]
+C[Losing move! Winrate: 0.0%, Score: -2.5];C[Winrate: 0.0%, Score: -2.5]W[ha])(
+;B[bb]C[Losing move! Winrate: 0.0%, Score: -2.5];C[Winrate: 0.0%, Score: -2.5]
+W[ha])(;B[di]C[Losing move! Winrate: 0.0%, Score: -2.4];
+C[Winrate: 0.0%, Score: -2.4]W[ha])(;B[aa]
+C[Losing move! Winrate: 0.0%, Score: -2.4];C[Winrate: 0.0%, Score: -2.4]W[ha])(
+;B[fa]C[Losing move! Winrate: 0.0%, Score: -2.5];C[Winrate: 0.0%, Score: -2.5]
+W[ha])(;B[ih]C[Losing move! Winrate: 0.0%, Score: -2.4];
+C[Winrate: 0.0%, Score: -2.4]W[ha])(;B[ii]
+C[Losing move! Winrate: 0.0%, Score: -2.4];C[Winrate: 0.0%, Score: -2.4]W[ha]))
+
