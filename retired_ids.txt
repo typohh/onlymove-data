@@ -33473,3 +33473,88 @@ ab8ae4e9
 8800cc58
 89b5a072
 8b639215
+
+# 2026-08-21 — drift sweep against db/d1.sqlite (rows through 2026-08-20).
+# Not a purge: these are ids the earlier blocks already removed from the
+# corpus, which have since ACQUIRED attempt rows. A report can arrive long
+# after its problem is gone -- the client's outbox re-uploads on the original
+# event time, and a device holding a stale shard still serves it -- so the
+# retired set goes stale on its own and has to be re-derived, not just
+# appended to at purge time. 71 attempts across these 70 ids.
+#   29 have no SGF anywhere;
+#   27 still have their SGF in tsumegos/fixed/9/ (which tsumego_id_taken does NOT scan).
+#   34 still have their SGF in tsumegos/broken/9/ (which tsumego_id_taken does NOT scan).
+#   7 still have their SGF in tsumegos/broken/13/ (which tsumego_id_taken does NOT scan).
+# Listing them blocks reissue. An id here whose SGF is later restored to
+# the corpus trips features.py's namespace check by design -- resolve that
+# by deciding whether the restored problem should inherit these rows.
+00510940
+00831462
+01b5fc51
+022890be
+0266b6b9
+02bd7b63
+02cd602f
+0304c1ef
+03d0b93f
+04b2810c
+04eef16b
+055d45d2
+058013b7
+058402c1
+05ba0ec3
+05c79d98
+05f507d0
+06175a9c
+067904ac
+08ca7c3f
+092bde5d
+09f69abb
+0a1cf55c
+0ac81db5
+0aef51aa
+0d1320b5
+0d17850d
+0ebac59b
+0f5371e4
+0fc7a228
+0ffee317
+10619b76
+11f63dc9
+134d08c2
+174f59bc
+18331ed3
+19b5c6e7
+1c88e955
+1ce0c9f0
+1cf3e504
+1dea0eba
+205eb9e9
+2155498c
+2175b4f4
+224d06dc
+238fa157
+2429b6a8
+252952d2
+25bae583
+261f4bbe
+2826e61f
+2851c0ba
+28a4b0d6
+2ac7a830
+2c6f0017
+304a3fa5
+31a2388f
+31d0092f
+33849acf
+3500ecc8
+354e099c
+38e9e76c
+445bbc8f
+4ce3bf12
+4ef3663b
+510cc706
+554a7376
+608304c1
+64688da1
+6c1a8690
