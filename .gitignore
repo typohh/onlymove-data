@@ -4,5 +4,3 @@
 # auxiliary/add_losing_lines --out-dir: repaired copies waiting to be merged
 # back over <size>/. Transient, and regenerable by re-running.
 /fixed/
-# Derived work-splitting list, regenerated from the corpus on each fleet run.
-exclude_*.txt
